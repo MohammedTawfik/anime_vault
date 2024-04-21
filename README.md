@@ -7,3 +7,6 @@ NPM Packages
 - Intersection Observer
   - npm install react-intersection-observer
   - used to check how much the user scroll in the page to detect if we need to load mre items from the server or not
+- Framer Motion
+  - npm install framer-motion
+  - used to animate react and next.js component
